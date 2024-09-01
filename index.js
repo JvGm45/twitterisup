@@ -14,6 +14,21 @@ const offlineMessages = [
   "O Twitter ainda não foi reativado hoje 😕",
   "Ainda não é hoje que o Twitter/X Voltou 😢",
   "O Twitter ainda não foi reativado no Brasil 😞",
+  "E o X? Nada ainda? 🤨",
+  "Nada de X ainda? A gente tá esperando... ⏳",
+  "Twitter ainda fora do ar, e agora? 😟",
+  "A espera continua, o Twitter ainda não voltou 😓",
+  "Infelizmente, o Twitter ainda não reativou hoje 😔",
+  "O X não voltou até agora, parece que vamos ter que esperar mais 😥",
+  "Parece que o X ainda não voltou, continue tentando mais tarde 🕰️",
+  "O Twitter continua fora do ar, já estou perdendo as esperanças 😞",
+  "Nenhuma novidade sobre o retorno do Twitter ainda, paciência... 😩",
+  "O Twitter ainda está fora do ar, vamos aguardar mais um pouco 😔",
+  "X ainda fora do ar. Alguma novidade? 🤷‍♂️",
+  "A situação do Twitter continua a mesma, sem mudanças 😕",
+  "Nada novo sobre o Twitter, parece que a espera continua 😢",
+  "O X ainda não voltou, continue acompanhando para mais informações 🕵️‍♂️",
+  "Twitter ainda fora do ar, a paciência é a chave 😔",
 ];
 
 const agent = new BskyAgent({service: "https://bsky.social"});
